@@ -14,6 +14,7 @@ body, html{
 body{
     background: black url(../imagens/back-phone.jpg) no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 main{
     background-color: rgba(255, 255, 255, 0.849);
